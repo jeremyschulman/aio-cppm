@@ -1,6 +1,6 @@
 **WORK IN PROGRESS**
 
-# Python Asyncio Client for Aruba ClearPass Policy Manager 
+# Python Asyncio Client for Aruba ClearPass Policy Manager
 
 This respository contains a Python 3.8+ asyncio client for the Aruba ClearPass
 Policy Manager REST API.

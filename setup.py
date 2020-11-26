@@ -29,7 +29,7 @@
 
 from setuptools import setup, find_packages
 
-package_name = "aio-clearpass-policymanager"
+package_name = "aio-clearpass"
 package_version = open("VERSION").read().strip()
 
 

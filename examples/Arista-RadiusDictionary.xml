@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TipsContents xmlns="http://www.avendasys.com/tipsapiDefs/1.0">
+  <TipsHeader exportTime="Mon Nov 16 18:20:18 UTC 2020" version="6.8"/>
+  <Dictionaries>
+    <Vendor vendorEnabled="true" prefix="Arista" name="Radius:Arista" id="30065">
+      <RadiusAttributes>
+        <Attribute profile="in out" type="String" name="Arista-AVPair" id="1"/>
+        <Attribute profile="in out" type="String" name="Arista-CVP-Role" id="4"/>
+        <Attribute profile="in out" type="Unsigned32" name="Arista-User-Priv-Level" id="2"/>
+        <Attribute profile="in out" type="String" name="Arista-User-Role" id="3"/>
+      </RadiusAttributes>
+    </Vendor>
+  </Dictionaries>
+</TipsContents>
